@@ -1,0 +1,35 @@
+1.    Otrzymywanie binarnej i szesnastkowej reprezentacji liczb całkowitych
+2.    Szybka zamiana reprezentacji z ukł 2 na 4, 8, 16 i odwrotnie.
+3.    Kod uzupełnieniowy (szybka zamiana na kod uzupełnieniowy).
+4.    Znajdowanie w ciągu elementu najmniejszego, największego lub o
+wyróżnionej własności - przeszukiwanie liniowe.
+5.    Algorytm badania czy liczba jest np. doskonała, pierwsza.
+6.    Sprawdzanie warunku trójkąta.
+7.    Rozkład liczby na czynniki pierwsze.
+8.    Jednoczesne znajdowanie w ciągu elementu najmniejszego i
+największego - metoda “dziel i zwyciężaj”.
+9.    Rekurencja (np. ciąg Fibonacciego, silnia).
+10.    Porządkowanie ciągu metodą wyboru (SelectionSort)
+11.    Scalanie (łączenie) dwóch ciągów (plików) uporządkowanych w jeden
+ciąg uporządkowany.
+12.    Porządkowanie przez scalanie(MergeSort) - użycie metody “dziel i
+zwyciężaj”.
+13.    Porządkowanie ciągu przez wstawianie (InsertSort).
+14.    Porządkowanie metodą bąbelkową (BubbleSort).
+15.    Porządkowanie szybkie (QuickSort).
+16.    Generowanie kolejnych liczb pierwszych metodą sita Eratostenesa.
+17.    Szyfrowanie (Cezara, Vigenere’a, z wykorzystaniem XOR).
+18.    Szyfrowanie przestawieniowe (metoda płotu).
+19.    Algorytmy kompresji.
+20.    Znajdowanie największego dzielnika dwóch liczb naturalnych -
+algorytm Euklidesa.
+21.    Schemat Hornera obliczania wartości wielomianu (i wartości jego
+pochodnej).
+22.    Całkowanie numeryczne (metoda prostokątów, trapezów). SKIP???
+23.    Generowanie ciągu liczb Fibonacciego - metoda iteracyjna i
+rekurencyjna.
+24.    Generowanie ciągu liczb naturalnych.
+25.    Wyznaczanie podciągu o maksymalnej sumie.
+26.    Sprawdzanie czy ciąg jest palindromem.
+27.    Sprawdzenia anagramów.
+28.    Sumy prefiksowe
