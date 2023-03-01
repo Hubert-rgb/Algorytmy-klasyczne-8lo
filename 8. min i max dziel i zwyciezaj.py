@@ -10,3 +10,5 @@ def dziel(t, n):
             m[i / 2] = t[i]
             d[i / 2] = t[i - 1]
     if n %2 == 1:
+
+#chyba powinno się zrobić marge sort abo qsort i odczytać pierwszą albo ostatnią wartość
